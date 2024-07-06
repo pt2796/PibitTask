@@ -1,0 +1,309 @@
+{
+    "contact_information": {
+        "name": "Pranjali Tiwari",
+        "email": "pt2796@srmist.edu.in",
+        "phone": "6232718108",
+        "address": "Chennai, India"
+    },
+    "summary": "I'm Pranjali Tiwari, currently pursuing a Bachelor's degree in Computer Science at SRM University. With a GPA of 9.46, I prioritize academic excellence. Passionate about frontend development, I've honed my skills through real-time projects and internships. My aim is to merge technical expertise with social responsibility, embracing new challenges and seeking collaboration for mutual growth.",
+    "education": [
+        {
+            "institution": "SRM Institute of Science and Technology",
+            "location": "Chennai, Tamil Nadu",
+            "degree": "B.Tech in Computer Science",
+            "dates": "Sep 2021 - Jun 2025",
+            "GPA": "9.47"
+        },
+        {
+            "institution": "Delhi Public School",
+            "location": "Guna, MP",
+            "degree": "12th, CBSE",
+            "dates": "Mar 2019 - Jun 2020",
+            "percentage": "93.2%"
+        },
+        {
+            "institution": "Delhi Public School",
+            "location": "Guna, MP",
+            "degree": "10th, CBSE",
+            "dates": "Mar 2017 - Apr 2018",
+            "percentage": "93.8%"
+        }
+    ],
+    "skills": [
+        "C Programming",
+        "C++",
+        "Python",
+        "Java",
+        "HTML5",
+        "CSS",
+        "JavaScript",
+        "BootStrap",
+        "DBMS",
+        "MySql",
+        "NODE.Js",
+        "OOPS",
+        "UI/UX",
+        "Figma",
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Web Development",
+        "React",
+        "Cloud Computing"
+    ],
+    "scholarships": [
+        {
+            "name": "Founder's Scholarship",
+            "institution": "SRM Institute of Science and Technology, Kattankulathur, Chennai, Tamil Nadu"
+        }
+    ],
+    "experience": [
+        {
+            "company": "BootNext Tech Venture Private Limited",
+            "role": "UI Developer",
+            "type": "Internship",
+            "location": "Indore",
+            "dates": "Jul 2023 - Jul 2023",
+            "description": "Interned at BootNext Tech Venture, immersing in the UI/UX domain to gain industry experience and hands-on training. Became proficient in tools like Figma, Adobe XD, and Sketch, honing skills in wireframing, prototyping, and user interface design."
+        },
+        {
+            "company": "Bharat Intern",
+            "role": "Web Developer",
+            "type": "Internship",
+            "location": "Virtual",
+            "dates": "Jan 2024 - Feb 2024",
+            "description": "Collaborated on projects to build intuitive user interfaces, implement responsive designs, and optimize website performance. Acquired proficiency in HTML, CSS, and JavaScript while adhering to industry best practices and design principles."
+        },
+        {
+            "company": "CodeAlpha",
+            "role": "Full Stack Web Developer",
+            "type": "Internship",
+            "location": "Virtual",
+            "dates": "Mar 2024 - Mar 2024",
+            "description": "Engaged in collaborative projects aimed at crafting user-centric interfaces, integrating responsive design elements, and enhancing website performance. Cultivated expertise in HTML, CSS, JavaScript, and Node.js through practical application, guided by industry standards and design methodologies. Embraced hands-on training to tackle real-world challenges, fostering a deep understanding of effective development practices and ensuring the delivery of high-quality digital experiences."
+        }
+    ],
+    "projects": [
+        {
+            "name": "Social Media Tracker App",
+            "dates": "Mar 2024 - Apr 2024",
+            "organization": "CodeAlpha",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ],
+            "description": "Crafted a robust Social Media Tracker application, exemplifying full-stack developer capabilities. Employed a blend of technologies for seamless integration across frontend, backend, and database components. Noteworthy features include advanced user authentication, dynamic data visualization, and realtime updates, reflecting expertise in modern web development."
+        },
+        {
+            "name": "Expense Tracker Website",
+            "dates": "Mar 2024 - Apr 2024",
+            "organization": "CodeAlpha",
+            "technologies": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ],
+            "description": "Created a website for an Expense Tracker, utilizing HTML, CSS, JavaScript, and Node.js. Includes features for expense recording, categorization, and visualization. Demonstrates skills in frontend design, backend development, and database integration for efficient expense management."
+        },
+        {
+            "name": "Blog-Website",
+            "dates": "Jan 2024 - Feb 2024",
+            "organization": "Bharat Intern",
+            "technologies": [
+                "HTML5",
+                "CSS",
+                "JavaScript",
+                "Node.Js"
+            ],
+            "description": "Developed a website demonstrating proficiency in HTML, CSS, JavaScript, and Node.js. Features include responsive design, dynamic content, user authentication, and MongoDB integration. Emphasizes functionality, aesthetics, and scalability in full-stack web development."
+        },
+        {
+            "name": "Registration Form",
+            "dates": "Jan 2024 - Feb 2024",
+            "organization": "Bharat Intern",
+            "technologies": [
+                "HTML5",
+                "CSS",
+                "JavaScript"
+            ],
+            "description": ""
+        },
+        {
+            "name": "Attendance Management System using Facial Recognition",
+            "dates": "Jan 2023 - Jul 2024",
+            "organization": "SRM University",
+            "technologies": [
+                "Python Programming",
+                "Digital Image Processing",
+                "OpenCV",
+                "HTML5",
+                "CSS",
+                "JScript",
+                "Machine Learning"
+            ],
+            "description": "Developed an Attendance Management System with Facial Recognition capabilities. Created using HTML, CSS, JavaScript, and Node.js, integrating facial recognition technology for secure and efficient attendance tracking. Demonstrates proficiency in frontend design, backend development, and advanced biometric authentication."
+        },
+        {
+            "name": "Portfolio Website",
+            "dates": "Feb 2022 -",
+            "organization": "SRM University",
+            "technologies": [
+                "HTML5",
+                "CSS"
+            ],
+            "description": "My dynamic portfolio website showcases my professional journey, skills, and expertise, allowing visitors to explore my qualifications and projects seamlessly. With a sleek interface, it invites prospective employers to engage with my work effortlessly, reflecting my dedication to excellence and innovation."
+        },
+        {
+            "name": "Election Voting System",
+            "dates": "Feb 2022 - Jun 2022",
+            "organization": "SRM University",
+            "technologies": [
+                "C",
+                "C++",
+                "Object-Oriented Programming",
+                "OOPS"
+            ],
+            "description": "The election voting system provides a secure and transparent method for casting votes, ensuring integrity and fostering confidence in democratic principles through robust security measures."
+        },
+        {
+            "name": "SITE-to-SITE IPsec VPN Using CLI Topology",
+            "dates": "Jan 2023 - Jun 2023",
+            "organization": "SRM University",
+            "technologies": [
+                "Computer Networks"
+            ],
+            "description": ""
+        },
+        {
+            "name": "Computer Vision- Rock Paper Scissor",
+            "dates": "Aug 2023 - Dec 2023",
+            "organization": "SRM University",
+            "technologies": [
+                "Computer Communication"
+            ],
+            "description": "Implementing a real-time multiplayer Rock, Paper, Scissors game using UDP ensures efficient data transmission in computer networks. Players choose between three shapes with specific outcomes: Rock beats Scissors, Scissors beat Paper, and Paper beats Rock."
+        },
+        {
+            "name": "Library Management System",
+            "dates": "Jul 2022 - Nov 2022",
+            "organization": "SRM University",
+            "technologies": [
+                "C++",
+                "C",
+                "Object-Oriented Programming",
+                "OOPS"
+            ],
+            "description": ""
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Oracle Cloud Infrastructure 2023 Certified Foundations Associate",
+            "issuer": "Oracle",
+            "dates": "Jun 2024 - Present",
+            "link": "Link"
+        },
+        {
+            "name": "Meta Frontend Developer",
+            "issuer": "Coursera",
+            "dates": "Nov 2023 -",
+            "link": "Link"
+        },
+        {
+            "name": "Machine Learning Specialization",
+            "issuer": "Coursera",
+            "dates": "May 2024 -",
+            "link": "Link"
+        },
+        {
+            "name": "Programming in Java",
+            "issuer": "NPTEL",
+            "dates": "Nov 2023 -",
+            "link": "Link"
+        },
+        {
+            "name": "Android Developer Virtual Internship",
+            "issuer": "AICTE",
+            "dates": "Jul 2024 -",
+            "link": "Link"
+        },
+        {
+            "name": "AIML Virtual Internship",
+            "issuer": "AICTE",
+            "dates": "Aug 2023 -",
+            "link": "Link"
+        },
+        {
+            "name": "Mastering Compiler design",
+            "issuer": "Udemy",
+            "dates": "Apr 2024 -",
+            "link": "Link"
+        },
+        {
+            "name": "Introduction to Automata Theory, Languages and Computation",
+            "issuer": "Udemy",
+            "dates": "Oct 2023 -",
+            "link": "Link"
+        },
+        {
+            "name": "Networking Basics",
+            "issuer": "Cisco Networking Academy",
+            "dates": "Apr 2023 -",
+            "link": "Link"
+        },
+        {
+            "name": "Networking Devices and Initial Configuration",
+            "issuer": "Cisco Networking Academy",
+            "dates": "Oct 2023 -",
+            "link": "Link"
+        },
+        {
+            "name": "AWS Academy Graduate - AWS Academy Machine Learning Foundations",
+            "issuer": "AWS Academy",
+            "dates": "Apr 2023 -",
+            "link": "Link"
+        },
+        {
+            "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+            "issuer": "AWS Academy",
+            "dates": "Jun 2023 -",
+            "link": "Link"
+        }
+    ],
+    "conferences_and_workshops": [
+        {
+            "name": "UI/UX Masterclass",
+            "issuer": "Team Gen-Y",
+            "organization": "SRM University",
+            "dates": "Aug 2023",
+            "link": "Link"
+        },
+        {
+            "name": "Mern Full Stack Development",
+            "issuer": "Department of Data Science and Business Systems, School of Computing, SRM Institute of Science and Technology, Kattankulathur",
+            "organization": "SRM University",
+            "dates": "Aug 2023",
+            "link": "Link"
+        }
+    ],
+    "links": [
+        "GitHub",
+        "LinkedIn"
+    ],
+    "extra_curricular_activities": [
+        {
+            "name": "Member of Graphic Designing Domain at a student's based club at SRM University",
+            "dates": "Jan 2022 - Nov 2023"
+        }
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "Professional Working Proficiency"
+        },
+        {
+            "name": "Hindi",
+            "proficiency": "Professional Working Proficiency"
+        }
+    ]
+}
